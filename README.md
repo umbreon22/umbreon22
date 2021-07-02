@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/umbreon22/umbreon22.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=umbreon22&show_icons=true&line_height=21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umbreon22&show_icons=true&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
 
 <!--
 **umbreon22/umbreon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
